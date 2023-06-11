@@ -1,5 +1,5 @@
 # runAssembly
-Packaging Newbler with a singularity container enables de novo assembly in any Linux environment.
+Packaging Newbler with a singularity container enables _de novo_ assembly in any Linux environment.
 
 ## Requirement
 ### Install system dependencies
@@ -70,7 +70,7 @@ If you wish to use singularity in any path, we recommend adding singularity to t
 
 
 
-## De novo assembly with runAssembly.sif
+## _De novo_ assembly with runAssembly.sif
 ```sh
 singularity exec runAssembly.sif runAssembly
 ```
